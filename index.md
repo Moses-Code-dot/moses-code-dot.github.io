@@ -33,6 +33,7 @@ I have done a few certifications, with one that I'm currently pursuing, which is
 **Technical Skills**
  - Proficient in Python, Linux , and Microsoft Office Suite.
  - Skilled in cybersecurity tools, network troubleshooting, and system administration
+
 **Professional Skills**
  - Communication: Exceptional verbal and written skills for effective collaboration and client interaction.
  - Problem-Solving: Analytical mindset to diagnose and resolve technical challenges efficiently.
