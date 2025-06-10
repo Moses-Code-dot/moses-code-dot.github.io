@@ -28,4 +28,13 @@ I have done a few certifications, with one that I'm currently pursuing, which is
 - Supported the rollout of a digital patient record system, improving data retrieval efficiency by 25%.
 - Conducted training sessions for staff on IT tools, reducing technical support requests by
 - Collaborated with the IT team on system backups and network maintenance, ensuring data reliability
- 
+
+## Skills
+**Technical Skills**
+ - Proficient in Python, Linux , and Microsoft Office Suite.
+ - Skilled in cybersecurity tools, network troubleshooting, and system administration
+**Professional Skills**
+ - Communication: Exceptional verbal and written skills for effective collaboration and client interaction.
+ - Problem-Solving: Analytical mindset to diagnose and resolve technical challenges efficiently.
+ - Independence: Proven ability to manage tasks autonomously, ensuring high-quality outcomes.
+ - Collaboration: Strong team player, contributing to shared goals in diverse settings.
