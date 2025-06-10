@@ -17,11 +17,9 @@ title: Moses Wanjala
 email: moseswanjalabwayo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Cyber Security and Digital forensics
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 twitter_username: 
 github_username: moses-code-dot
-minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin:  neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 # Build settings
@@ -62,9 +60,6 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I aspire to learn and gain more skills and experience."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/idi_otic"
