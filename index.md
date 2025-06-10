@@ -27,5 +27,5 @@ I have done a few certifications, with one that I'm currently pursuing, which is
 - Configured and maintained IT systems, including antivirus updates and user account management, enhancing system security.
 - Supported the rollout of a digital patient record system, improving data retrieval efficiency by 25%.
 - Conducted training sessions for staff on IT tools, reducing technical support requests by
-- Collaborated with the IT team on system backups and network maintenance, ensuring data
+- Collaborated with the IT team on system backups and network maintenance, ensuring data reliability
  
