@@ -5,3 +5,18 @@
 layout: single
 author_profile: true
 ---
+
+# Curriculum Vitae - Moses Wanjala
+
+## Education
+
+- **BSc in Computer Security and Forensics**, Jaramogi Oginga Odinga University of Science and Technology
+
+
+## Certifications
+
+I have done a few certifications, with one that I'm currently pursuing, which is offered by Cyber Shujaa
+
+ - **AI Career Essentials**, ALX Africa
+ - **Virtual Assistant**, ALX Africa
+ - **Cloud and Network Security**, Cyber Shujaa - Currently doing
