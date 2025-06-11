@@ -7,8 +7,10 @@ author_profile: true
 
 # Lab Challenge 1
  **HTB Academy: Introduction to Network Traffic Analysis**
+ 
  **Problem statement:** 
  aims to teach beginners how to analyze network traffic to identify suspicious activities, understand protocols, and detect potential security threats. The challenge is to equip learners with foundational skills to capture, interpret, and analyze network packets effectively.
+
  **Approach:**
  - Learning Fundamentals: Study core concepts of network protocols (e.g., TCP/IP, HTTP, DNS) and packet structures.
  - Packet Capture: Use tools to capture network traffic from simulated environments or provided PCAP files.
@@ -22,8 +24,10 @@ author_profile: true
 
 # Lab Challenge 2
  **VLANs and Secure Switch Configuration**
+
  **Problem Statement:**
  VLANs and Secure Switch Configuration focuses on teaching learners to design, implement, and secure VLANs to segment network traffic and mitigate security risks. The challenge is to configure VLANs and switches to ensure proper traffic isolation, prevent unauthorized access, and protect against attacks like VLAN hopping or spoofing while maintaining network functionality.
+  
   **Approach:**
   - VLAN Setup: Define and configure VLANs to segment network traffic (e.g., by department or device type) to enhance security and reduce broadcast domains.
   - Secure Switch Configuration:
