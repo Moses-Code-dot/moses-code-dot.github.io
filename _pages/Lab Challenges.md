@@ -15,6 +15,7 @@ author_profile: true
  - Analysis: Inspect packets to identify patterns, anomalies, or malicious activities (e.g., unauthorized access, data exfiltration).
  - Practical Exercises: Complete hands-on tasks like filtering traffic, reconstructing sessions, or identifying specific protocol behaviors.
  - Reporting: Summarize findings to understand network behavior or security incidents.
+
 **Tools Used:**
   - HTB Platform: Provides interactive labs and challenges for practical application.
 -------
@@ -32,5 +33,6 @@ author_profile: true
      - Implement port security (e.g., 802.1X, MAC address filtering) to control device access.
      - Apply ACLs to restrict inter-VLAN traffic and enable DHCP snooping/ARP inspection to counter spoofing.
   - Documentation: Maintain network diagrams and configuration logs for traceability.
+
 **Tools Used:**
   -Packet Tracer
