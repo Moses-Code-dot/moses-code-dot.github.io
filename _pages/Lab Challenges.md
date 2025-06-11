@@ -1,5 +1,5 @@
 ---
-title: "Posts by Lab Challenges"
+title: "Lab Challenges"
 permalink: /lab challenges/
 layout: default
 author_profile: true
