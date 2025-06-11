@@ -13,6 +13,6 @@ From what I have done, I have:
  - Developed Web-Based Simulator: Built a functional web-based tool to simulate DNS spoofing, allowing controlled demonstration of attack scenarios.
  - Visualized Attack Process: Created an interactive interface in the simulator to showcase how DNS queries are intercepted and manipulated.
  - Enhanced Understanding: Provided a user-friendly way to study DNS spoofing mechanics without requiring live network manipulation.
- - [view it here]( http://192.168.100.126:8501)
+[view it here]( http://192.168.100.126:8501)
 
    
