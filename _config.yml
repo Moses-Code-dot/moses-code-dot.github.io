@@ -60,9 +60,6 @@ author:
   avatar : "/assets/images/photo.png"
   bio    : "Enthusiastic about exploring advancements in cybersecurity, artificial intelligence, and cloud computing."
   links:
-   - label: "Gmail"
-      icon: "fab fa-gmail"
-      url: "https://mail.google.com/moseswanjalabwayo@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/idi_otic"
