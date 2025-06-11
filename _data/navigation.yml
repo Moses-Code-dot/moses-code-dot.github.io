@@ -3,6 +3,6 @@ main:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Tags"
-    url: /tags/
+  - title: "Lab Challenges"
+    url: /lab challengess/
   
