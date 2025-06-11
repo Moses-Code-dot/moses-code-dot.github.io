@@ -2,7 +2,6 @@
 title: "Lab Challenges"
 permalink: /lab-challenges/
 layout: default
- {{content}}
 author_profile: true
 ---
 
